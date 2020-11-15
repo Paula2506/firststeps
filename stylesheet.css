@@ -1,0 +1,17 @@
+ 
+    text,p,ul{
+    	
+		 font-family:Comic Sans MS, Comic Sans, cursive;
+		padding-left: 3em;
+		 font-weight: bold;
+    
+    }
+	
+	body {
+ background-image: url("berry.jpg");
+	background-repeat: no-repeat;
+	 background-size: cover;
+	   background-position: center;
+	   height: 500px;
+	
+	}
