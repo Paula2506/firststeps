@@ -4,14 +4,22 @@
 		 font-family:Comic Sans MS, Comic Sans, cursive;
 		padding-left: 3em;
 		 font-weight: bold;
+		 margin-top: 2em;
+		font-size: 2em;
     
     }
-	
+	h1{
+		font-size: 2em;
+		margin-left:3em;
+		margin-top: 5em;
+	}
 	body {
+		
  background-image: url("./img/berry.jpg");
 	background-repeat: no-repeat;
 	 background-size: cover;
 	   background-position: center;
-	   height: 500px;
+	   height: 200px;
 	
 	}
+	
